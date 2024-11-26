@@ -1,0 +1,7 @@
+{
+  "name": "Neurona",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
