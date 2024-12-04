@@ -1,0 +1,71 @@
+/* PredictionComponent.css */
+
+/* Estilo general para la página */
+.page-container {
+    padding: 20px;
+    background-color: #f4f4f9;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  /* Título principal */
+  h2 {
+    text-align: center;
+    color: #3b3b3b;
+    margin-bottom: 20px;
+    font-size: 24px; /* Tamaño de fuente en píxeles */
+  }
+  
+  /* Estilo para los items del formulario */
+  .ion-item {
+    margin-bottom: 15px;
+  }
+  
+  /* Etiquetas de los formularios */
+  .ion-label {
+    font-size: 16px; /* Tamaño de fuente en píxeles */
+    color: #5a5a5a;
+  }
+  
+  /* Inputs de los formularios */
+  .ion-input {
+    font-size: 16px; /* Tamaño de texto */
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  /* Botón de submit */
+  .ion-button {
+    background-color: #4caf50;
+    color: white;
+    font-weight: bold;
+    font-size: 18px; /* Tamaño de fuente en píxeles */
+    padding: 12px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 100%;
+    transition: background-color 0.3s ease;
+  }
+  
+  .ion-button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Contenedor de resultados */
+  .result-container {
+
+    background-color: #fff;
+ 
+   
+  }
+  
+
+  .result-container li {
+    font-size: 18px; /* Tamaño de fuente en píxeles */
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
